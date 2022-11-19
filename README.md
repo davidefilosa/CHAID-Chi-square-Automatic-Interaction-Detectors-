@@ -9,5 +9,5 @@ We can do both drive analysis to understand what matters the most and segmentati
 
 In practice, CHAID is often used in the context of direct marketing to select groups of consumers to predict how their responses to some variables affect other variables.
 
-![My Image](tree.gv)
+![Decision Tree](tree.gv.png)
 
